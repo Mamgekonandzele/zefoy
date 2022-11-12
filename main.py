@@ -33,7 +33,7 @@ class livecounts:
         }
     
     @staticmethod
-    def video_info(video_id: (int or str)) -> dict:
+    def video_info(video_id: (int or str)) -> dict:https://vm.tiktok.com/ZMFPKwt1L/
         timestamp = int(time() * 1000)
         
         headers = {
